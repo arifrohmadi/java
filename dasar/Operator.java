@@ -7,7 +7,7 @@ package dasar;
  */
 /**
  *
- * @author AMAZING
+ * @author Indonesia Sedang AMAZING
  */
 public class Operator {
     public static void main (String args[]){

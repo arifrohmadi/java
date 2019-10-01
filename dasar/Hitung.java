@@ -7,7 +7,7 @@ package dasar;
  */
 /**
  *
- * @author AMAZING
+ * @author Indonesia Raya
  */
 
 
